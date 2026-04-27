@@ -3,7 +3,7 @@ version: 1.2.0
 description: 投资工作流 - 场景驱动的投研全流程。覆盖 6 个用户场景（买股票/投行业/扫描推荐/行业看法/热点分析/开会讨论），融合降秩分析/追本分析/圆桌讨论/决策整合。
 author: 燃冰 & ant
 license: MIT
-repository: https://github.com/lj22503/one-person-ceo-skills
+repository: https://github.com/lj22503/investment-workflow
 tags:
   - investment
   - workflow
